@@ -223,7 +223,7 @@
         "variablesBlocks": true,
         "textBlocks": true,
         "listsBlocks": true,
-        "functionBlocks": true,
+        "functionBlocks": false,
         "breakBlock": true,
         "continueBlock": true,
         "functionsOptions": {
@@ -399,8 +399,8 @@
         "appLogo": "./static/icons/apple-touch-icon.png",
         "organization": "Microsoft MakeCode",
         "organizationUrl": "https://makecode.com/",
-        "organizationLogo": "./static/Microsoft_logo_rgb_W-white_D-square.png",
-        "organizationWideLogo": "./static/Microsoft_logo_rgb_W-white_D.png",
+        "organizationLogo": "",
+        "organizationWideLogo": "",
         "homeScreenHero": {
             "imageUrl": "/static/herogallery/hero-banner.png",
             "name": "Flashing Heart",

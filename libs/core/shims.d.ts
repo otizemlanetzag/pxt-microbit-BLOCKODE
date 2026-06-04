@@ -1259,6 +1259,7 @@ declare namespace input {
     //% blockId=input_logo_event block="on logo $action"
     //% group="micro:bit (V2)"
     //% parts="logotouch"
+    //% blockHidden=true
     //% help="input/on-logo-event" shim=input::onLogoEvent
     function onLogoEvent(action: TouchButtonEvent, body: () => void): void;
 
@@ -1270,6 +1271,7 @@ declare namespace input {
     //% blockGap=8
     //% group="micro:bit (V2)"
     //% parts="logotouch"
+    //% blockHidden=true
     //% help="input/logo-is-pressed" shim=input::logoIsPressed
     function logoIsPressed(): boolean;
 }
